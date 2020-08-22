@@ -5,3 +5,43 @@ body{
         background-size: cover;
         background-size: 100%;
     }
+    #headStyle{
+        font-family: serif;
+        color: white;
+        font-size: 70px;
+        margin-top: 20px;
+    }
+    #thankYou{
+        margin-top:50px;
+        margin-left: 22%;
+        color: red;
+        font-family: serif;
+        font-size: 50px;
+    }
+    #thankStyle{
+        
+        margin-top: 90px ;
+        margin-left: 7%;
+        color: red;
+    }
+    #marquee{
+        width: 90%;
+        color: red;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: 300;
+        font-size: 25px;
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        margin-bottom: 10px;
+    }
+    #ptag1{
+        color: red;
+        font-size: 30px;
+        margin-top: 60px;
+    }
+    #ptag2{
+        color: red;
+        font-size: 30px;
+        margin-left: 18%;
+    }
